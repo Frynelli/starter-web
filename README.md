@@ -8,6 +8,6 @@ This repository is for showing how Git and GitHub work frynelli's version
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This is example is to show different parts of Git repository and various commands
 
 ## How To Contribute
