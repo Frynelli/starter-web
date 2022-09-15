@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work frynelli's version
 
 ## Introduction
-
+THis is to show how different parts of the Git and GitHub work together.
 ## Deployment
 This is a simple web project, deployment can be on any web server or even local file system
 ## Purpose
