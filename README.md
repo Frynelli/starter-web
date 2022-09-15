@@ -11,3 +11,6 @@ This is a simple web project, deployment can be on any web server or even local 
 This is example is to show different parts of Git repository and various commands 
 
 ## How To Contribute
+
+### Copyright
+2022 git.training.
