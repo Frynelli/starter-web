@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Frynelli Oikonomou    firosjan@email.com  @firosjan
 
 # THANKS
 
