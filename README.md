@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work frynelli's version
+This repository is for showing how Git and GitHub work frynelli's version, more changes from myfeature branch 2
 
 ## Introduction
 THis is to show how different parts of the Git and GitHub work together.
