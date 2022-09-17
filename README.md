@@ -14,4 +14,4 @@ This is example is to show different parts of Git repository and various command
 Please fork this repository and then issue Pull Request for review
 
 ### Copyright
-2022 git.training.
+2022 git.training. All Rights Reserved
